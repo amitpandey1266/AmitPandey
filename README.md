@@ -24,9 +24,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amitpandey1266&layout=compact&exclude_lang=java+r&theme=vue-dark" />
 </a>
 </p>
-
 ### 🤝🏻 &nbsp;Let's Connect to know each other
 <p align="center">
 <a href="https://www.linkedin.com/in/amitpandeybda/"><img src="https://img.shields.io/badge/-Amit%20Pandey-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/amitpandey_xiss?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-screen-name="false" data-lang="en" data-show-count="false">Follow @amitpandey_xiss</a>
 </p>
